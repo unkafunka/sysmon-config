@@ -1,4 +1,7 @@
-﻿# Sysmon Threat Intelligence Configuration #
+Original fork documentation is below:
+My fork is available at [Fork](https://github.com/unkafunka/sysmon-config/blob/master/sysmonconfig-export.xml)**
+
+# Sysmon Threat Intelligence Configuration #
 See the develop Branch for more bleeding edge updates: https://github.com/ion-storm/sysmon-config/tree/develop
 
 This is a Microsoft Sysinternals Sysmon configuration file template with default high-quality event tracing.
